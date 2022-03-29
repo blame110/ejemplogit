@@ -7,7 +7,7 @@ public class EjemploLog {
 
     private static final Logger loggerConsola = (Logger) LoggerFactory.getLogger("programacion.logConsola");
     private static final Logger loggerFichero = (Logger) LoggerFactory.getLogger("programacion.logFichero");
-	 
+	public int contador=0; 
     
     
        public static void main(String[] args)       
