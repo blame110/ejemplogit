@@ -11,7 +11,7 @@ public class Ejemplo1EstructuraProgramaJava {
 
 		// Variables locales al codigo de main
 
-		// Es muy recomendable declarar las variables al principio del bloque
+		// Es muy rdddddecomendable declarar las variables al principio del bloque
 		// de c�digo en el que se utilizen
 
 		// Las variables tienen que tener un nombre que deje bien claro
@@ -19,11 +19,10 @@ public class Ejemplo1EstructuraProgramaJava {
 
 		// Se recomiendo declarar cada variable en una linea con un comentario
 		// Que indique para que sirven
-
 		// Si hay una serie de variables iguales se pueden declarar en la misma linea;
 
 		// Ejemplo de variables similares en la misma linea
-		float media1Daw, media2Daw;
+		float medifa1Daw, media2Daw;
 
 		System.out.println("media1Daw");
 
