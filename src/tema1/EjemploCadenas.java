@@ -8,7 +8,7 @@ public class EjemploCadenas {
 		// TODO Auto-generated method stub
 
 		// Definimos las variables
-		String texto, palabra;
+		String texto, palabra, palabra3;
 		int inicio, fin;
 
 		Scanner teclado = new Scanner(System.in);
